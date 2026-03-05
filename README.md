@@ -1,12 +1,12 @@
-<h1 align="center">Welcome, i'm Musiab Jeelani Mir</h1>
+<h1 align="center">Musiab Jeelani Mir</h1>
 <h3 align="center">Software Developer Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaibmirrr" alt="musaibmirrr" /></a> </p>
+
 
 - 📫 How to reach me **engmusiab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
